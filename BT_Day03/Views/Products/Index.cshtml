@@ -1,0 +1,29 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+
+@{
+    @model List<BT_Day03.Models.Trangchu>
+
+    <div class="section-box">
+        <div class="section-title">Sản phẩm mới nhất</div>
+        <div class="product-list">
+            @foreach (var p in Model)
+            {
+                <div class="product-item">
+                    <img src="@p.Image" alt="@p.Title" />
+                    <p>@p.Title</p>
+                </div>
+            }
+        </div>
+    </div>
+
+    <!-- Load thêm ViewComponent -->
+    <div class="section-box">
+        <div class="section-title">Sản phẩm nổi bật</div>
+        @await Component.InvokeAsync("Product")
+    </div>
+
+
+}

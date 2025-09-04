@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - BT_Day03</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <!-- Navbar -->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <a class="navbar-brand" asp-controller="Home" asp-action="Index">DEMO LAB</a>
+            <div class="navbar-nav">
+                <a class="nav-link" asp-controller="Home" asp-action="Index">Trang chủ</a>
+                <a class="nav-link" asp-controller="Home" asp-action="Privacy">Giới thiệu</a>
+                <a class="nav-link" asp-controller="Home" asp-action="Contact">Liên hệ</a>
+                <a class="nav-link" asp-controller="Products" asp-action="Index">Sản phẩm</a>
+            </div>
+        </nav>
+    </header>
+
+    <main class="container mt-3">
+        <div class="row">
+            <div class="col-md-3">
+                @await Html.PartialAsync("_Category")
+                @await Html.PartialAsync("_Banner")
+            </div>
+            <div class="col-md-9">
+                @RenderBody()
+            </div>
+        </div>
+    </main>
+
+    <footer class="bg-dark text-white text-center p-3 mt-3">
+        <div class="row">
+            <div class="col-md-6">
+                <h5>GIỚI THIỆU</h5>
+                <p>Lorem ipsum dolor sit amet consectetur...</p>
+            </div>
+            <div class="col-md-6">
+                <h5>LIÊN HỆ</h5>
+                <p>Hotline: 0123 456 789</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

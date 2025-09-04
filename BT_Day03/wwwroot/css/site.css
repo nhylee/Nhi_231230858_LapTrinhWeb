@@ -1,0 +1,72 @@
+﻿html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+/* Box bọc nguyên 1 section */
+.section-box {
+    border: 1px solid #ddd;
+    margin: 20px 0;
+    background: #fff;
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+/* Thanh tiêu đề màu xanh */
+.section-title {
+    background-color: #2e6da4;
+    color: #fff;
+    font-weight: bold;
+    padding: 10px;
+    font-size: 16px;
+}
+
+/* Danh sách sản phẩm */
+.product-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 15px;
+}
+
+/* Từng item */
+.product-item {
+    width: 220px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+    /* Ảnh sản phẩm */
+    .product-item img {
+        width: 200px;
+        height: 200px;
+        object-fit: cover;
+        margin-bottom: 10px;
+    }
+
+    /* Tên sản phẩm */
+    .product-item p {
+        margin: 5px 0;
+        font-size: 14px;
+    }

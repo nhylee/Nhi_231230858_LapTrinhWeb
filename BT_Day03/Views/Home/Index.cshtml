@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Trang chủ";
+}
+
+<div class="row">
+    <!-- Sidebar: load từ Partial View -->
+    <div class="col-md-3">
+        <partial name="_Sidebar" />
+    </div>
+
+    <!-- Nội dung chính -->
+    <div class="col-md-9">
+        <!-- Load từ ViewComponent (Sản phẩm mới nhất) -->
+        <div class="mb-4">
+            <h3 class="bg-primary text-white p-2 rounded">Sản phẩm mới nhất</h3>
+            @await Component.InvokeAsync("Product")
+            <!-- ProductViewComponent.cs + Views/Shared/Components/Product/Default.cshtml -->
+        </div>
+
+        <!-- Load từ ViewComponent (Sản phẩm nổi bật) -->
+        <div class="mb-4">
+            <h3 class="bg-primary text-white p-2 rounded">Sản phẩm nổi bật</h3>
+            @await Component.InvokeAsync("FeaturedProducts")
+            <!-- FeaturedProductsViewComponent.cs + Views/Shared/Components/FeaturedProducts/Default.cshtml -->
+        </div>
+    </div>
+</div>
