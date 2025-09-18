@@ -1,0 +1,119 @@
+﻿@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<div class="container-fluid py-4">
+    <h2 class="mb-4 fw-bold text-primary">Company Dashboard</h2>
+
+    <!-- Thống kê nhanh -->
+    <div class="row g-3 mb-4">
+        <div class="col-md-3 col-sm-6">
+            <div class="card shadow-sm border-0">
+                <div class="card-body text-center">
+                    <h4 class="fw-bold text-primary">65%</h4>
+                    <p class="text-muted mb-0">CPU Usage</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="card shadow-sm border-0">
+                <div class="card-body text-center">
+                    <h4 class="fw-bold text-danger">98,230</h4>
+                    <p class="text-muted mb-0">Followers</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="card shadow-sm border-0">
+                <div class="card-body text-center">
+                    <h4 class="fw-bold text-success">1,280</h4>
+                    <p class="text-muted mb-0">Orders</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="card shadow-sm border-0">
+                <div class="card-body text-center">
+                    <h4 class="fw-bold text-warning">325</h4>
+                    <p class="text-muted mb-0">New Customers</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Chart + Goals -->
+    <div class="row g-3">
+        <div class="col-md-8">
+            <div class="card shadow-sm border-0">
+                <div class="card-header bg-white fw-bold text-primary">
+                    Monthly Revenue Report
+                </div>
+                <div class="card-body">
+                    <canvas id="revenueChart" height="200"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card shadow-sm border-0">
+                <div class="card-header bg-white fw-bold text-primary">
+                    Goal Completion
+                </div>
+                <div class="card-body">
+                    <p class="mb-1">Add Products <span class="float-end">450/800</span></p>
+                    <div class="progress mb-3" style="height: 6px;">
+                        <div class="progress-bar bg-primary" style="width:56%"></div>
+                    </div>
+
+                    <p class="mb-1">Complete Purchase <span class="float-end">420/500</span></p>
+                    <div class="progress mb-3" style="height: 6px;">
+                        <div class="progress-bar bg-danger" style="width:84%"></div>
+                    </div>
+
+                    <p class="mb-1">Visit Premium Page <span class="float-end">600/800</span></p>
+                    <div class="progress mb-3" style="height: 6px;">
+                        <div class="progress-bar bg-success" style="width:75%"></div>
+                    </div>
+
+                    <p class="mb-1">Send Inquiries <span class="float-end">300/500</span></p>
+                    <div class="progress mb-0" style="height: 6px;">
+                        <div class="progress-bar bg-warning" style="width:60%"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        const ctx = document.getElementById('revenueChart').getContext('2d');
+        new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun'],
+                datasets: [{
+                    label: 'Revenue ($)',
+                    data: [12000, 15000, 18000, 22000, 25000, 30000],
+                    backgroundColor: 'rgba(13,110,253,0.6)',
+                    borderColor: '#0d6efd',
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                plugins: {
+                    legend: { display: false }
+                },
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        ticks: {
+                            callback: value => '$' + value.toLocaleString()
+                        }
+                    }
+                }
+            }
+        });
+    </script>
+}
