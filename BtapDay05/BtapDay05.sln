@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BtapDay05", "BtapDay05.csproj", "{2F8211BB-0400-4B1A-A1B8-4951E826ED05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F8211BB-0400-4B1A-A1B8-4951E826ED05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F8211BB-0400-4B1A-A1B8-4951E826ED05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F8211BB-0400-4B1A-A1B8-4951E826ED05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F8211BB-0400-4B1A-A1B8-4951E826ED05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA7BF4F6-5FED-4A45-A8B2-9E2EEA9DBCD4}
+	EndGlobalSection
+EndGlobal
