@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LTWEB\\TrenLop_10_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E54D434-A82D-4837-BED8-7F445BE1A5EE}|TrenLop_10_3.csproj|c:\\ltweb\\trenlop_10_3\\views\\loaisanphams\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E54D434-A82D-4837-BED8-7F445BE1A5EE}|TrenLop_10_3.csproj|solutionrelative:views\\loaisanphams\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E54D434-A82D-4837-BED8-7F445BE1A5EE}|TrenLop_10_3.csproj|c:\\ltweb\\trenlop_10_3\\views\\loaisanphams\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E54D434-A82D-4837-BED8-7F445BE1A5EE}|TrenLop_10_3.csproj|solutionrelative:views\\loaisanphams\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E54D434-A82D-4837-BED8-7F445BE1A5EE}|TrenLop_10_3.csproj|c:\\ltweb\\trenlop_10_3\\views\\loaisanphams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E54D434-A82D-4837-BED8-7F445BE1A5EE}|TrenLop_10_3.csproj|solutionrelative:views\\loaisanphams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E54D434-A82D-4837-BED8-7F445BE1A5EE}|TrenLop_10_3.csproj|c:\\ltweb\\trenlop_10_3\\views\\loaisanphams\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E54D434-A82D-4837-BED8-7F445BE1A5EE}|TrenLop_10_3.csproj|solutionrelative:views\\loaisanphams\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E54D434-A82D-4837-BED8-7F445BE1A5EE}|TrenLop_10_3.csproj|c:\\ltweb\\trenlop_10_3\\views\\loaisanphams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E54D434-A82D-4837-BED8-7F445BE1A5EE}|TrenLop_10_3.csproj|solutionrelative:views\\loaisanphams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E54D434-A82D-4837-BED8-7F445BE1A5EE}|TrenLop_10_3.csproj|c:\\ltweb\\trenlop_10_3\\models\\loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E54D434-A82D-4837-BED8-7F445BE1A5EE}|TrenLop_10_3.csproj|solutionrelative:models\\loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E54D434-A82D-4837-BED8-7F445BE1A5EE}|TrenLop_10_3.csproj|c:\\ltweb\\trenlop_10_3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E54D434-A82D-4837-BED8-7F445BE1A5EE}|TrenLop_10_3.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E54D434-A82D-4837-BED8-7F445BE1A5EE}|TrenLop_10_3.csproj|c:\\ltweb\\trenlop_10_3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E54D434-A82D-4837-BED8-7F445BE1A5EE}|TrenLop_10_3.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E54D434-A82D-4837-BED8-7F445BE1A5EE}|TrenLop_10_3.csproj|c:\\ltweb\\trenlop_10_3\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E54D434-A82D-4837-BED8-7F445BE1A5EE}|TrenLop_10_3.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E54D434-A82D-4837-BED8-7F445BE1A5EE}|TrenLop_10_3.csproj|c:\\ltweb\\trenlop_10_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E54D434-A82D-4837-BED8-7F445BE1A5EE}|TrenLop_10_3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E54D434-A82D-4837-BED8-7F445BE1A5EE}|TrenLop_10_3.csproj|c:\\ltweb\\trenlop_10_3\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E54D434-A82D-4837-BED8-7F445BE1A5EE}|TrenLop_10_3.csproj|solutionrelative:models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E54D434-A82D-4837-BED8-7F445BE1A5EE}|TrenLop_10_3.csproj|c:\\ltweb\\trenlop_10_3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E54D434-A82D-4837-BED8-7F445BE1A5EE}|TrenLop_10_3.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E54D434-A82D-4837-BED8-7F445BE1A5EE}|TrenLop_10_3.csproj|c:\\ltweb\\trenlop_10_3\\controllers\\loaisanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E54D434-A82D-4837-BED8-7F445BE1A5EE}|TrenLop_10_3.csproj|solutionrelative:controllers\\loaisanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E54D434-A82D-4837-BED8-7F445BE1A5EE}|TrenLop_10_3.csproj|c:\\ltweb\\trenlop_10_3\\data\\qlbhcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E54D434-A82D-4837-BED8-7F445BE1A5EE}|TrenLop_10_3.csproj|solutionrelative:data\\qlbhcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 287,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\LTWEB\\TrenLop_10_3\\Views\\LoaiSanPhams\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\LoaiSanPhams\\Index.cshtml",
+              "ToolTip": "C:\\LTWEB\\TrenLop_10_3\\Views\\LoaiSanPhams\\Index.cshtml",
+              "RelativeToolTip": "Views\\LoaiSanPhams\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T14:23:21.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\LTWEB\\TrenLop_10_3\\Views\\LoaiSanPhams\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\LoaiSanPhams\\Edit.cshtml",
+              "ToolTip": "C:\\LTWEB\\TrenLop_10_3\\Views\\LoaiSanPhams\\Edit.cshtml",
+              "RelativeToolTip": "Views\\LoaiSanPhams\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T14:23:20.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\LTWEB\\TrenLop_10_3\\Views\\LoaiSanPhams\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\LoaiSanPhams\\Delete.cshtml",
+              "ToolTip": "C:\\LTWEB\\TrenLop_10_3\\Views\\LoaiSanPhams\\Delete.cshtml",
+              "RelativeToolTip": "Views\\LoaiSanPhams\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T14:23:17.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\LTWEB\\TrenLop_10_3\\Views\\LoaiSanPhams\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\LoaiSanPhams\\Details.cshtml",
+              "ToolTip": "C:\\LTWEB\\TrenLop_10_3\\Views\\LoaiSanPhams\\Details.cshtml",
+              "RelativeToolTip": "Views\\LoaiSanPhams\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T14:23:12.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\LTWEB\\TrenLop_10_3\\Views\\LoaiSanPhams\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\LoaiSanPhams\\Create.cshtml",
+              "ToolTip": "C:\\LTWEB\\TrenLop_10_3\\Views\\LoaiSanPhams\\Create.cshtml",
+              "RelativeToolTip": "Views\\LoaiSanPhams\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-03T02:07:45.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LTWEB\\TrenLop_10_3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\LTWEB\\TrenLop_10_3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T01:57:42.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\LTWEB\\TrenLop_10_3\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\LTWEB\\TrenLop_10_3\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-03T01:57:24.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\LTWEB\\TrenLop_10_3\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\LTWEB\\TrenLop_10_3\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-03T01:56:22.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\LTWEB\\TrenLop_10_3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\LTWEB\\TrenLop_10_3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-03T01:56:17.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\LTWEB\\TrenLop_10_3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\LTWEB\\TrenLop_10_3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T01:55:59.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoaiSanPham.cs",
+              "DocumentMoniker": "C:\\LTWEB\\TrenLop_10_3\\Models\\LoaiSanPham.cs",
+              "RelativeDocumentMoniker": "Models\\LoaiSanPham.cs",
+              "ToolTip": "C:\\LTWEB\\TrenLop_10_3\\Models\\LoaiSanPham.cs",
+              "RelativeToolTip": "Models\\LoaiSanPham.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T01:52:54.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "C:\\LTWEB\\TrenLop_10_3\\Models\\HoaDon.cs",
+              "RelativeDocumentMoniker": "Models\\HoaDon.cs",
+              "ToolTip": "C:\\LTWEB\\TrenLop_10_3\\Models\\HoaDon.cs",
+              "RelativeToolTip": "Models\\HoaDon.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T13:54:42.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoaiSanPhamsController.cs",
+              "DocumentMoniker": "C:\\LTWEB\\TrenLop_10_3\\Controllers\\LoaiSanPhamsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoaiSanPhamsController.cs",
+              "ToolTip": "C:\\LTWEB\\TrenLop_10_3\\Controllers\\LoaiSanPhamsController.cs",
+              "RelativeToolTip": "Controllers\\LoaiSanPhamsController.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAwwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T01:43:48.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QLBHContext.cs",
+              "DocumentMoniker": "C:\\LTWEB\\TrenLop_10_3\\Data\\QLBHContext.cs",
+              "RelativeDocumentMoniker": "Data\\QLBHContext.cs",
+              "ToolTip": "C:\\LTWEB\\TrenLop_10_3\\Data\\QLBHContext.cs",
+              "RelativeToolTip": "Data\\QLBHContext.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T01:35:22.083Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
