@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LTWEB\\BTapDay09_CodeFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33A1A89B-5B25-43D5-95CA-5B69863790BB}|BTapDay09_CodeFirst.csproj|c:\\ltweb\\btapday09_codefirst\\controllers\\ltynloaisanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A1A89B-5B25-43D5-95CA-5B69863790BB}|BTapDay09_CodeFirst.csproj|solutionrelative:controllers\\ltynloaisanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A1A89B-5B25-43D5-95CA-5B69863790BB}|BTapDay09_CodeFirst.csproj|c:\\ltweb\\btapday09_codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A1A89B-5B25-43D5-95CA-5B69863790BB}|BTapDay09_CodeFirst.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A1A89B-5B25-43D5-95CA-5B69863790BB}|BTapDay09_CodeFirst.csproj|c:\\ltweb\\btapday09_codefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{33A1A89B-5B25-43D5-95CA-5B69863790BB}|BTapDay09_CodeFirst.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A1A89B-5B25-43D5-95CA-5B69863790BB}|BTapDay09_CodeFirst.csproj|c:\\ltweb\\btapday09_codefirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33A1A89B-5B25-43D5-95CA-5B69863790BB}|BTapDay09_CodeFirst.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A1A89B-5B25-43D5-95CA-5B69863790BB}|BTapDay09_CodeFirst.csproj|c:\\ltweb\\btapday09_codefirst\\views\\ltynloaisanphams\\ltyndelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33A1A89B-5B25-43D5-95CA-5B69863790BB}|BTapDay09_CodeFirst.csproj|solutionrelative:views\\ltynloaisanphams\\ltyndelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A1A89B-5B25-43D5-95CA-5B69863790BB}|BTapDay09_CodeFirst.csproj|c:\\ltweb\\btapday09_codefirst\\views\\ltynloaisanphams\\ltyncreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33A1A89B-5B25-43D5-95CA-5B69863790BB}|BTapDay09_CodeFirst.csproj|solutionrelative:views\\ltynloaisanphams\\ltyncreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A1A89B-5B25-43D5-95CA-5B69863790BB}|BTapDay09_CodeFirst.csproj|c:\\ltweb\\btapday09_codefirst\\views\\ltynloaisanphams\\ltynindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33A1A89B-5B25-43D5-95CA-5B69863790BB}|BTapDay09_CodeFirst.csproj|solutionrelative:views\\ltynloaisanphams\\ltynindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A1A89B-5B25-43D5-95CA-5B69863790BB}|BTapDay09_CodeFirst.csproj|c:\\ltweb\\btapday09_codefirst\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33A1A89B-5B25-43D5-95CA-5B69863790BB}|BTapDay09_CodeFirst.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A1A89B-5B25-43D5-95CA-5B69863790BB}|BTapDay09_CodeFirst.csproj|c:\\ltweb\\btapday09_codefirst\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33A1A89B-5B25-43D5-95CA-5B69863790BB}|BTapDay09_CodeFirst.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A1A89B-5B25-43D5-95CA-5B69863790BB}|BTapDay09_CodeFirst.csproj|c:\\ltweb\\btapday09_codefirst\\views\\ltynloaisanphams\\ltyndetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33A1A89B-5B25-43D5-95CA-5B69863790BB}|BTapDay09_CodeFirst.csproj|solutionrelative:views\\ltynloaisanphams\\ltyndetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A1A89B-5B25-43D5-95CA-5B69863790BB}|BTapDay09_CodeFirst.csproj|c:\\ltweb\\btapday09_codefirst\\views\\ltynloaisanphams\\ltynedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33A1A89B-5B25-43D5-95CA-5B69863790BB}|BTapDay09_CodeFirst.csproj|solutionrelative:views\\ltynloaisanphams\\ltynedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A1A89B-5B25-43D5-95CA-5B69863790BB}|BTapDay09_CodeFirst.csproj|c:\\ltweb\\btapday09_codefirst\\models\\datamodels\\ltynloaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A1A89B-5B25-43D5-95CA-5B69863790BB}|BTapDay09_CodeFirst.csproj|solutionrelative:models\\datamodels\\ltynloaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A1A89B-5B25-43D5-95CA-5B69863790BB}|BTapDay09_CodeFirst.csproj|c:\\ltweb\\btapday09_codefirst\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A1A89B-5B25-43D5-95CA-5B69863790BB}|BTapDay09_CodeFirst.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A1A89B-5B25-43D5-95CA-5B69863790BB}|BTapDay09_CodeFirst.csproj|c:\\ltweb\\btapday09_codefirst\\models\\datamodels\\ltynsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A1A89B-5B25-43D5-95CA-5B69863790BB}|BTapDay09_CodeFirst.csproj|solutionrelative:models\\datamodels\\ltynsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A1A89B-5B25-43D5-95CA-5B69863790BB}|BTapDay09_CodeFirst.csproj|c:\\ltweb\\btapday09_codefirst\\models\\businessmodels\\ltynqlbhcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A1A89B-5B25-43D5-95CA-5B69863790BB}|BTapDay09_CodeFirst.csproj|solutionrelative:models\\businessmodels\\ltynqlbhcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\LTWEB\\BTapDay09_CodeFirst\\Migrations\\20251017162041_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251017162041_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A1A89B-5B25-43D5-95CA-5B69863790BB}|BTapDay09_CodeFirst.csproj|c:\\ltweb\\btapday09_codefirst\\models\\datamodels\\ltynhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A1A89B-5B25-43D5-95CA-5B69863790BB}|BTapDay09_CodeFirst.csproj|solutionrelative:models\\datamodels\\ltynhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A1A89B-5B25-43D5-95CA-5B69863790BB}|BTapDay09_CodeFirst.csproj|c:\\ltweb\\btapday09_codefirst\\models\\datamodels\\ltynquantri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A1A89B-5B25-43D5-95CA-5B69863790BB}|BTapDay09_CodeFirst.csproj|solutionrelative:models\\datamodels\\ltynquantri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A1A89B-5B25-43D5-95CA-5B69863790BB}|BTapDay09_CodeFirst.csproj|c:\\ltweb\\btapday09_codefirst\\models\\datamodels\\ltynct_hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A1A89B-5B25-43D5-95CA-5B69863790BB}|BTapDay09_CodeFirst.csproj|solutionrelative:models\\datamodels\\ltynct_hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A1A89B-5B25-43D5-95CA-5B69863790BB}|BTapDay09_CodeFirst.csproj|c:\\ltweb\\btapday09_codefirst\\models\\datamodels\\ltynkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A1A89B-5B25-43D5-95CA-5B69863790BB}|BTapDay09_CodeFirst.csproj|solutionrelative:models\\datamodels\\ltynkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 287,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LTWEB\\BTapDay09_CodeFirst\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\LTWEB\\BTapDay09_CodeFirst\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:07:57.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LtynLoaiSanPhamsController.cs",
+              "DocumentMoniker": "C:\\LTWEB\\BTapDay09_CodeFirst\\Controllers\\LtynLoaiSanPhamsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LtynLoaiSanPhamsController.cs",
+              "ToolTip": "C:\\LTWEB\\BTapDay09_CodeFirst\\Controllers\\LtynLoaiSanPhamsController.cs",
+              "RelativeToolTip": "Controllers\\LtynLoaiSanPhamsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:27:04.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\LTWEB\\BTapDay09_CodeFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\LTWEB\\BTapDay09_CodeFirst\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-17T16:07:58.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\LTWEB\\BTapDay09_CodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\LTWEB\\BTapDay09_CodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T16:47:19.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ltynDelete.cshtml",
+              "DocumentMoniker": "C:\\LTWEB\\BTapDay09_CodeFirst\\Views\\LtynLoaiSanPhams\\ltynDelete.cshtml",
+              "RelativeDocumentMoniker": "Views\\LtynLoaiSanPhams\\ltynDelete.cshtml",
+              "ToolTip": "C:\\LTWEB\\BTapDay09_CodeFirst\\Views\\LtynLoaiSanPhams\\ltynDelete.cshtml",
+              "RelativeToolTip": "Views\\LtynLoaiSanPhams\\ltynDelete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T16:40:35.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ltynCreate.cshtml",
+              "DocumentMoniker": "C:\\LTWEB\\BTapDay09_CodeFirst\\Views\\LtynLoaiSanPhams\\ltynCreate.cshtml",
+              "RelativeDocumentMoniker": "Views\\LtynLoaiSanPhams\\ltynCreate.cshtml",
+              "ToolTip": "C:\\LTWEB\\BTapDay09_CodeFirst\\Views\\LtynLoaiSanPhams\\ltynCreate.cshtml",
+              "RelativeToolTip": "Views\\LtynLoaiSanPhams\\ltynCreate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T16:28:05.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ltynIndex.cshtml",
+              "DocumentMoniker": "C:\\LTWEB\\BTapDay09_CodeFirst\\Views\\LtynLoaiSanPhams\\ltynIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\LtynLoaiSanPhams\\ltynIndex.cshtml",
+              "ToolTip": "C:\\LTWEB\\BTapDay09_CodeFirst\\Views\\LtynLoaiSanPhams\\ltynIndex.cshtml",
+              "RelativeToolTip": "Views\\LtynLoaiSanPhams\\ltynIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T16:35:19.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\LTWEB\\BTapDay09_CodeFirst\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\LTWEB\\BTapDay09_CodeFirst\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T16:44:11.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\LTWEB\\BTapDay09_CodeFirst\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\LTWEB\\BTapDay09_CodeFirst\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T16:28:59.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ltynDetails.cshtml",
+              "DocumentMoniker": "C:\\LTWEB\\BTapDay09_CodeFirst\\Views\\LtynLoaiSanPhams\\ltynDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\LtynLoaiSanPhams\\ltynDetails.cshtml",
+              "ToolTip": "C:\\LTWEB\\BTapDay09_CodeFirst\\Views\\LtynLoaiSanPhams\\ltynDetails.cshtml",
+              "RelativeToolTip": "Views\\LtynLoaiSanPhams\\ltynDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T16:43:28.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ltynEdit.cshtml",
+              "DocumentMoniker": "C:\\LTWEB\\BTapDay09_CodeFirst\\Views\\LtynLoaiSanPhams\\ltynEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\LtynLoaiSanPhams\\ltynEdit.cshtml",
+              "ToolTip": "C:\\LTWEB\\BTapDay09_CodeFirst\\Views\\LtynLoaiSanPhams\\ltynEdit.cshtml",
+              "RelativeToolTip": "Views\\LtynLoaiSanPhams\\ltynEdit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T16:43:19.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LtynLoaiSanPham.cs",
+              "DocumentMoniker": "C:\\LTWEB\\BTapDay09_CodeFirst\\Models\\DataModels\\LtynLoaiSanPham.cs",
+              "RelativeDocumentMoniker": "Models\\DataModels\\LtynLoaiSanPham.cs",
+              "ToolTip": "C:\\LTWEB\\BTapDay09_CodeFirst\\Models\\DataModels\\LtynLoaiSanPham.cs",
+              "RelativeToolTip": "Models\\DataModels\\LtynLoaiSanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T15:45:00.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\LTWEB\\BTapDay09_CodeFirst\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\LTWEB\\BTapDay09_CodeFirst\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAnwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T15:41:04.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LtynSanPham.cs",
+              "DocumentMoniker": "C:\\LTWEB\\BTapDay09_CodeFirst\\Models\\DataModels\\LtynSanPham.cs",
+              "RelativeDocumentMoniker": "Models\\DataModels\\LtynSanPham.cs",
+              "ToolTip": "C:\\LTWEB\\BTapDay09_CodeFirst\\Models\\DataModels\\LtynSanPham.cs",
+              "RelativeToolTip": "Models\\DataModels\\LtynSanPham.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA3wCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T15:44:52.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20251017162041_v1.cs",
+              "DocumentMoniker": "C:\\LTWEB\\BTapDay09_CodeFirst\\Migrations\\20251017162041_v1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251017162041_v1.cs",
+              "ToolTip": "C:\\LTWEB\\BTapDay09_CodeFirst\\Migrations\\20251017162041_v1.cs",
+              "RelativeToolTip": "Migrations\\20251017162041_v1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:20:42.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LtynQLBHContex.cs",
+              "DocumentMoniker": "C:\\LTWEB\\BTapDay09_CodeFirst\\Models\\BusinessModels\\LtynQLBHContex.cs",
+              "RelativeDocumentMoniker": "Models\\BusinessModels\\LtynQLBHContex.cs",
+              "ToolTip": "C:\\LTWEB\\BTapDay09_CodeFirst\\Models\\BusinessModels\\LtynQLBHContex.cs",
+              "RelativeToolTip": "Models\\BusinessModels\\LtynQLBHContex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T15:44:11.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LtynHoaDon.cs",
+              "DocumentMoniker": "C:\\LTWEB\\BTapDay09_CodeFirst\\Models\\DataModels\\LtynHoaDon.cs",
+              "RelativeDocumentMoniker": "Models\\DataModels\\LtynHoaDon.cs",
+              "ToolTip": "C:\\LTWEB\\BTapDay09_CodeFirst\\Models\\DataModels\\LtynHoaDon.cs",
+              "RelativeToolTip": "Models\\DataModels\\LtynHoaDon.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T15:45:15.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LtynQuanTri.cs",
+              "DocumentMoniker": "C:\\LTWEB\\BTapDay09_CodeFirst\\Models\\DataModels\\LtynQuanTri.cs",
+              "RelativeDocumentMoniker": "Models\\DataModels\\LtynQuanTri.cs",
+              "ToolTip": "C:\\LTWEB\\BTapDay09_CodeFirst\\Models\\DataModels\\LtynQuanTri.cs",
+              "RelativeToolTip": "Models\\DataModels\\LtynQuanTri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T15:44:35.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LtynCt_HoaDon.cs",
+              "DocumentMoniker": "C:\\LTWEB\\BTapDay09_CodeFirst\\Models\\DataModels\\LtynCt_HoaDon.cs",
+              "RelativeDocumentMoniker": "Models\\DataModels\\LtynCt_HoaDon.cs",
+              "ToolTip": "C:\\LTWEB\\BTapDay09_CodeFirst\\Models\\DataModels\\LtynCt_HoaDon.cs",
+              "RelativeToolTip": "Models\\DataModels\\LtynCt_HoaDon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T15:44:23.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LtynKhachHang.cs",
+              "DocumentMoniker": "C:\\LTWEB\\BTapDay09_CodeFirst\\Models\\DataModels\\LtynKhachHang.cs",
+              "RelativeDocumentMoniker": "Models\\DataModels\\LtynKhachHang.cs",
+              "ToolTip": "C:\\LTWEB\\BTapDay09_CodeFirst\\Models\\DataModels\\LtynKhachHang.cs",
+              "RelativeToolTip": "Models\\DataModels\\LtynKhachHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T15:45:07.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -14,7 +14,7 @@ namespace BTDay09_CodeFirst.Models.DataModels
 
         public int? SanPhamID { get; set; }
         [ForeignKey("SanPhamID")]
-        public SanPham SanPham { get; set; }
+        public LtynSanPham SanPham { get; set; }
 
         public int? SoLuongMua { get; set; }
         public decimal? DonGiaMua { get; set; }

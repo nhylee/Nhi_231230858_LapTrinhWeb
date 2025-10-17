@@ -4,10 +4,10 @@ using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddDbContext<QLBHContext>(options =>
-    options.UseSqlServer("Server=LAPTOPNHYLEE;Database=BTDay09;Trusted_Connection=True;Encrypt=False;TrustServerCertificate=True;"));
-builder.Services.AddControllersWithViews();
 
+builder.Services.AddControllersWithViews();
+var ltynConnection = builder.Configuration.GetConnectionString("QLBHContext");
+builder.Services.AddDbContext<QLBHContext>(options => options.UseSqlServer(ltynConnection));
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
