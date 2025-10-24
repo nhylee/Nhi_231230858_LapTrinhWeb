@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LTWEB\\LeThiYenNhi_231230858_de01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEEFFDC-C166-4594-9901-02061A3B8BC1}|LeThiYenNhi_231230858_de01.csproj|c:\\ltweb\\lethiyennhi_231230858_de01\\models\\ltyncomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEEFFDC-C166-4594-9901-02061A3B8BC1}|LeThiYenNhi_231230858_de01.csproj|solutionrelative:models\\ltyncomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEEFFDC-C166-4594-9901-02061A3B8BC1}|LeThiYenNhi_231230858_de01.csproj|c:\\ltweb\\lethiyennhi_231230858_de01\\views\\ltynhome\\ltyncontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AEEFFDC-C166-4594-9901-02061A3B8BC1}|LeThiYenNhi_231230858_de01.csproj|solutionrelative:views\\ltynhome\\ltyncontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEEFFDC-C166-4594-9901-02061A3B8BC1}|LeThiYenNhi_231230858_de01.csproj|c:\\ltweb\\lethiyennhi_231230858_de01\\controllers\\ltynhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEEFFDC-C166-4594-9901-02061A3B8BC1}|LeThiYenNhi_231230858_de01.csproj|solutionrelative:controllers\\ltynhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEEFFDC-C166-4594-9901-02061A3B8BC1}|LeThiYenNhi_231230858_de01.csproj|c:\\ltweb\\lethiyennhi_231230858_de01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2AEEFFDC-C166-4594-9901-02061A3B8BC1}|LeThiYenNhi_231230858_de01.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEEFFDC-C166-4594-9901-02061A3B8BC1}|LeThiYenNhi_231230858_de01.csproj|c:\\ltweb\\lethiyennhi_231230858_de01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEEFFDC-C166-4594-9901-02061A3B8BC1}|LeThiYenNhi_231230858_de01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEEFFDC-C166-4594-9901-02061A3B8BC1}|LeThiYenNhi_231230858_de01.csproj|c:\\ltweb\\lethiyennhi_231230858_de01\\models\\ltyncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEEFFDC-C166-4594-9901-02061A3B8BC1}|LeThiYenNhi_231230858_de01.csproj|solutionrelative:models\\ltyncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEEFFDC-C166-4594-9901-02061A3B8BC1}|LeThiYenNhi_231230858_de01.csproj|c:\\ltweb\\lethiyennhi_231230858_de01\\views\\shared\\_ltynlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AEEFFDC-C166-4594-9901-02061A3B8BC1}|LeThiYenNhi_231230858_de01.csproj|solutionrelative:views\\shared\\_ltynlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEEFFDC-C166-4594-9901-02061A3B8BC1}|LeThiYenNhi_231230858_de01.csproj|c:\\ltweb\\lethiyennhi_231230858_de01\\views\\ltynhome\\ltynerror.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AEEFFDC-C166-4594-9901-02061A3B8BC1}|LeThiYenNhi_231230858_de01.csproj|solutionrelative:views\\ltynhome\\ltynerror.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEEFFDC-C166-4594-9901-02061A3B8BC1}|LeThiYenNhi_231230858_de01.csproj|c:\\ltweb\\lethiyennhi_231230858_de01\\views\\ltynhome\\ltynindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AEEFFDC-C166-4594-9901-02061A3B8BC1}|LeThiYenNhi_231230858_de01.csproj|solutionrelative:views\\ltynhome\\ltynindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEEFFDC-C166-4594-9901-02061A3B8BC1}|LeThiYenNhi_231230858_de01.csproj|c:\\ltweb\\lethiyennhi_231230858_de01\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AEEFFDC-C166-4594-9901-02061A3B8BC1}|LeThiYenNhi_231230858_de01.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEEFFDC-C166-4594-9901-02061A3B8BC1}|LeThiYenNhi_231230858_de01.csproj|c:\\ltweb\\lethiyennhi_231230858_de01\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AEEFFDC-C166-4594-9901-02061A3B8BC1}|LeThiYenNhi_231230858_de01.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEEFFDC-C166-4594-9901-02061A3B8BC1}|LeThiYenNhi_231230858_de01.csproj|c:\\ltweb\\lethiyennhi_231230858_de01\\views\\ltynhome\\ltynprivacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AEEFFDC-C166-4594-9901-02061A3B8BC1}|LeThiYenNhi_231230858_de01.csproj|solutionrelative:views\\ltynhome\\ltynprivacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEEFFDC-C166-4594-9901-02061A3B8BC1}|LeThiYenNhi_231230858_de01.csproj|c:\\ltweb\\lethiyennhi_231230858_de01\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AEEFFDC-C166-4594-9901-02061A3B8BC1}|LeThiYenNhi_231230858_de01.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 287,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LtynContact.cshtml",
+              "DocumentMoniker": "C:\\LTWEB\\LeThiYenNhi_231230858_de01\\Views\\LtynHome\\LtynContact.cshtml",
+              "RelativeDocumentMoniker": "Views\\LtynHome\\LtynContact.cshtml",
+              "ToolTip": "C:\\LTWEB\\LeThiYenNhi_231230858_de01\\Views\\LtynHome\\LtynContact.cshtml",
+              "RelativeToolTip": "Views\\LtynHome\\LtynContact.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T02:03:02.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LtynContext.cs",
+              "DocumentMoniker": "C:\\LTWEB\\LeThiYenNhi_231230858_de01\\Models\\LtynContext.cs",
+              "RelativeDocumentMoniker": "Models\\LtynContext.cs",
+              "ToolTip": "C:\\LTWEB\\LeThiYenNhi_231230858_de01\\Models\\LtynContext.cs",
+              "RelativeToolTip": "Models\\LtynContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:51:19.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LtynHomeController.cs",
+              "DocumentMoniker": "C:\\LTWEB\\LeThiYenNhi_231230858_de01\\Controllers\\LtynHomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LtynHomeController.cs",
+              "ToolTip": "C:\\LTWEB\\LeThiYenNhi_231230858_de01\\Controllers\\LtynHomeController.cs",
+              "RelativeToolTip": "Controllers\\LtynHomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:04:17.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ltynError.cshtml",
+              "DocumentMoniker": "C:\\LTWEB\\LeThiYenNhi_231230858_de01\\Views\\LtynHome\\ltynError.cshtml",
+              "RelativeDocumentMoniker": "Views\\LtynHome\\ltynError.cshtml",
+              "ToolTip": "C:\\LTWEB\\LeThiYenNhi_231230858_de01\\Views\\LtynHome\\ltynError.cshtml",
+              "RelativeToolTip": "Views\\LtynHome\\ltynError.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:28:51.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\LTWEB\\LeThiYenNhi_231230858_de01\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\LTWEB\\LeThiYenNhi_231230858_de01\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-24T01:24:04.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LTWEB\\LeThiYenNhi_231230858_de01\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\LTWEB\\LeThiYenNhi_231230858_de01\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:26:43.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LtynComputer.cs",
+              "DocumentMoniker": "C:\\LTWEB\\LeThiYenNhi_231230858_de01\\Models\\LtynComputer.cs",
+              "RelativeDocumentMoniker": "Models\\LtynComputer.cs",
+              "ToolTip": "C:\\LTWEB\\LeThiYenNhi_231230858_de01\\Models\\LtynComputer.cs",
+              "RelativeToolTip": "Models\\LtynComputer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:13:55.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ltynIndex.cshtml",
+              "DocumentMoniker": "C:\\LTWEB\\LeThiYenNhi_231230858_de01\\Views\\LtynHome\\ltynIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\LtynHome\\ltynIndex.cshtml",
+              "ToolTip": "C:\\LTWEB\\LeThiYenNhi_231230858_de01\\Views\\LtynHome\\ltynIndex.cshtml",
+              "RelativeToolTip": "Views\\LtynHome\\ltynIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:08:10.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ltynLayout.cshtml",
+              "DocumentMoniker": "C:\\LTWEB\\LeThiYenNhi_231230858_de01\\Views\\Shared\\_ltynLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ltynLayout.cshtml",
+              "ToolTip": "C:\\LTWEB\\LeThiYenNhi_231230858_de01\\Views\\Shared\\_ltynLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ltynLayout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:09:32.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\LTWEB\\LeThiYenNhi_231230858_de01\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\LTWEB\\LeThiYenNhi_231230858_de01\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:34:00.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\LTWEB\\LeThiYenNhi_231230858_de01\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\LTWEB\\LeThiYenNhi_231230858_de01\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:23:56.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ltynPrivacy.cshtml",
+              "DocumentMoniker": "C:\\LTWEB\\LeThiYenNhi_231230858_de01\\Views\\LtynHome\\ltynPrivacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\LtynHome\\ltynPrivacy.cshtml",
+              "ToolTip": "C:\\LTWEB\\LeThiYenNhi_231230858_de01\\Views\\LtynHome\\ltynPrivacy.cshtml",
+              "RelativeToolTip": "Views\\LtynHome\\ltynPrivacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:08:04.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\LTWEB\\LeThiYenNhi_231230858_de01\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\LTWEB\\LeThiYenNhi_231230858_de01\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:30:20.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
