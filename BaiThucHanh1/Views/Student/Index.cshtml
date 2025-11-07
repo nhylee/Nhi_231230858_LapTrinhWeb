@@ -1,0 +1,76 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Student List";
+    Layout = "~/Views/Shared/MyLayoutHelper.cshtml";
+}
+@section Scripts{
+    <script>
+        var table = document.querySelector("table");
+        table.onclick = function onTableClick(){
+            table.style= "background-color: yellow;"
+        }
+    </script>
+}
+@model IEnumerable<Student>
+<a asp-controller="Student" asp-action="Create" class="btn btn-primary">
+    Create Student
+</a>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Ma</th>
+            <th>Ho ten</th>
+            <th>Ngay sinh</th>
+            <th>Nganh</th>
+            <th>Gioi tinh</th>
+            <th>He DT</th>
+            <th>Dia chi</th>
+            <th>Email</th>
+            <th>Ảnh đại diện</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var s in Model)
+        {
+            <tr>
+                <td>@s.Id</td>
+                <td>@s.Name</td>
+                <td>@s.DateOfBorth</td>
+                @{
+                    string str = "";
+                    switch (s.Branch)
+                    {
+                        case Branch.IT:
+                            str = "CNTT";
+                            break;
+                        case Branch.BE:
+                            str = "Kinh te";
+                            break;
+                        case Branch.CE:
+                            str = "Cong trinh";
+                            break;
+                        case Branch.EE:
+                            str = "Dien - Dien tu";
+                            break;
+                    }
+                }
+                <td>@str</td>
+                <td>@(s.Gender==Gender.Male? "Nam": "Nu")</td>
+                <td>@(s.IsRegular ? "Chinh quy": "Phi chinh quy") </td>
+                <td>@s.Address</td>
+                <td>@s.Email</td>
+                <td>
+                    @if (!string.IsNullOrEmpty(s.Avatar))
+                    {
+                        <img src="@s.Avatar" width="80" height="80" style="object-fit:cover; border-radius:10px;" />
+                    }
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>
